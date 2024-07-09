@@ -1,0 +1,20 @@
+    1  git --version
+    2  susudo apt install git
+    3  sudo apt install git
+    4  sudo apt install curl
+    5  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+    6  source~/.bashrc
+    7  nvm --version
+    8  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+    9  nvm --version
+   10  nvm install v14.15.4
+   11  node -v
+   12  clone git https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   13  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   14  ls
+   15  cd uas-komdat-24
+   16  ls
+   17  code .
+   18  npm install
+   19  npm run start
+   20  history > command-history.txt
